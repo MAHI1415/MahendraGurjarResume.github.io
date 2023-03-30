@@ -1,0 +1,11 @@
+Version 2.0.0 - 30 December 2022
+===================================
+
+1. Added: Designer Home Two Page
+2. Updated: React version 18.2.0
+3. Updated: Gatsby version 5.2.0
+
+Version 1.0.0 - 10 November 2021
+===================================
+
+1. Initial release
